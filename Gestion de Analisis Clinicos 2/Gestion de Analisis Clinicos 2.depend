@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697824344 source:c:\users\pablo\desktop\laura code blocks\gestion de analisis clinicos 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

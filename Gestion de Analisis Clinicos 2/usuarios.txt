@@ -1,0 +1,4 @@
+3
+admin 1234 0
+medico 5678 1
+recepcion 9876 2
